@@ -13,7 +13,7 @@ Refinery::Core.configure do |config|
   # config.base_cache_key = :refinery
 
   # Site name
-  # config.site_name = "Company Name"
+  # config.site_name = "Rick Rock Star 5281 Company Name"
 
   # This activates Google Analytics tracking within your website. If this
   # config is left blank or set to UA-xxxxxx-x then no remote calls to
@@ -40,7 +40,7 @@ Refinery::Core.configure do |config|
 
   # Specify a different Refinery::Core::Engine mount path than the default of "/".
   # Make sure you clear the `tmp/cache` directory after changing this setting.
-  # config.mounted_path = "/"
+  # config.mounted_path = "/cms"
 
   # Specify the order Refinery plugins appear in the admin view.
   # Plugins in the list are placed, as ordered, before any plugins not in the list.
